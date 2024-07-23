@@ -3,9 +3,9 @@ public class Main {
 
         System.out.println("Задача 1");
 
-        String fullName = "", firsName = "Ivan", middleName = "Ivanovich", lastName = "Ivanov";
-        fullName = lastName + " " + firsName + " " + middleName;
-        System.out.println("Ф.И.О сотрудника - " + fullName);
+        String fullName = "", firstName = "Ivan", middleName = "Ivanovich", lastName = "Ivanov";
+        fullName = lastName + " " + firstName + " " + middleName;
+        System.out.println("Ф.И.О. сотрудника - " + fullName);
 
         System.out.println("Задача 2");
 
